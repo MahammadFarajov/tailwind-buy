@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './components/Navbar'
-import GetStarted from './components/getStarted'
+import GetStarted from './components/GetStarted'
 import Partner from './components/Partner'
 import Stats from './components/Stats'
 import Partner_2 from "./components/Partner_2"
